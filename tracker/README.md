@@ -1,0 +1,2 @@
+# tracker directory
+Where all data is stored. Before use ensure all files with "lastReloaded" are set to the first day of the week/month (depending on if it's `week.json` or `month.json`). `day.json` and `all.json` can be left as they are.
